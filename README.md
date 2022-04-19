@@ -1,2 +1,3 @@
 # dad-jokes
-Beginner JavaScript with  WesBos exercise
+## Beginner JavaScript exercise
+### [live](https://artanmerko.github.io/dad-jokes/)
